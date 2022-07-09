@@ -1,6 +1,6 @@
 package it.corso.java;
 
-//prova commit eclips
+//prova commit eclipse
 
 public class Calcolatrice {
 	
