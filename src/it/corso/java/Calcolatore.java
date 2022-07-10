@@ -5,7 +5,7 @@ package it.corso.java;
 
 /**
  * @author Donatella
- *
+ * lsl
  */
 public class Calcolatore {
 	
